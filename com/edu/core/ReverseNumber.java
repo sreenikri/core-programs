@@ -11,8 +11,6 @@ public class ReverseNumber {
             origional=origional/10;
         }
         System.out.println(" reverse of a number " +rev);
-
-
         // by using StringBuff
         int num=2048;
         System.out.println(" origional number "+num);
