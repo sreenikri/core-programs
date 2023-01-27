@@ -17,31 +17,3 @@ public class ArrayComparison {
     }
 }
 
-class Dataset2{
-
-    int year;
-
-    int number;
-
-    public Dataset2(int year, int number) {
-        this.year = year;
-
-        this.number = number;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
-    }
-
-    public int getNumber() {
-        return number;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
-}
