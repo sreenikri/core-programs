@@ -1,8 +1,14 @@
 package com.edu.core;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ReverseNumber {
 
     public static void main(String[] args) {
+
+        List l1 =new ArrayList();
+
         int origional=1024;
         System.out.println(" origional  number " +origional);
         int rev=0;
